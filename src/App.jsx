@@ -44,7 +44,7 @@ const PROJECTS = [
     year: '2025',
     title: 'Project Three',
     role: '',
-    description: 'coming soon !',
+    description: 'coming soon ',
     href: '#',
   },
   {
